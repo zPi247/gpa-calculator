@@ -1,5 +1,5 @@
 # gpa-calculator
-A GPA calculator
+Just a GPA calculator
 
 输入的时候只输成绩（A+, A, A- 这样的形式），CCO成绩和其他成绩是分开的（有自己的一条儿框）
 
