@@ -5,4 +5,4 @@ A GPA calculator for VMA students
 
 **可以用我们学校计算GPA的方法算GPA**
 
-Python的部分就不讲解了，反正我们学校大部分人都学过python，自己运行就好
+Python的部分就不讲解了，反正我们学校大部分人都学过python，自己运行程序就好
