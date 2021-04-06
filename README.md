@@ -1,5 +1,5 @@
-# gpa-calculator-for-vma-students
-A GPA calculator for VMA students
+# gpa-calculator
+A GPA calculator
 
 输入的时候只输成绩（A+, A, A- 这样的形式），CCO成绩和其他成绩是分开的（有自己的一条儿框）
 
